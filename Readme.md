@@ -2,7 +2,7 @@
 ### 🛠️ **Мои навыки и технологии**
 
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,js,css,html,ts,vscode,redux,webpack,vite,jest,figma&perline=10)]
+![My Skills](https://skillicons.dev/icons?i=react,js,css,html,ts,vscode,redux,webpack,vite,jest,figma&perline=10)
 
 #### **Дополнительные навыки:**
 - Адаптивная и семантическая верстка
