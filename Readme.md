@@ -4,12 +4,5 @@
 ## Frontend
 ![My Skills](https://skillicons.dev/icons?i=react,js,css,html,ts,vscode,redux,webpack,vite,jest,figma&perline=10)
 
-#### **Дополнительные навыки:**
-- Адаптивная и семантическая верстка
-- Работа с Styled-components, Material-UI
-- Понимание BEM методологии
-- Опыт работы с Chrome DevTools
-- Знание Figma, Marsy, PerfectPixel
-- Основы тестирования ПО (Postman, SQL, Git)
-- Понимание SEO и сборки семантического ядра
-
+#### **CV:**
+-![My CV]([https://skillicons.dev/icons?i=react,js,css,html,ts,vscode,redux,webpack,vite,jest,figma&perline=10](https://drive.google.com/file/d/1PnkKLVcos2oh63fPGEJv6sFnvwKnko7p/view?usp=sharing))
