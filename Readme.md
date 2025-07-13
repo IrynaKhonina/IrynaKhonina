@@ -12,7 +12,5 @@
 ### 📊 Моя статистика GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaKhonina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### ⚡ Активность за последний год
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IrynaKhonina)](https://github.com/ashutosh00710/github-readme-activity-graph)
- Codewars
+### Codewars
 [![Codewars](https://www.codewars.com/users/IrynaKhonina/badges/small)](https://www.codewars.com/users/IrynaKhonina)
