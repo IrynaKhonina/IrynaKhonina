@@ -17,10 +17,4 @@
 ### Codewars
 [![Codewars](https://www.codewars.com/users/IrynaKhonina/badges/small)](https://www.codewars.com/users/IrynaKhonina)
 
-### 🛠 **Технологии и инструменты**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)  
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)  
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)  
+
