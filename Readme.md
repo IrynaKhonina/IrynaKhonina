@@ -8,7 +8,7 @@
 
 ---
 # **CV** ⬇️⬇️⬇️   
-[Скачать резюме PDF]([https://drive.google.com/file/d/1PnkKLVcos2oh63fPGEJv6sFnvwKnko7p/view?usp=sharing](https://drive.google.com/file/d/1cNAs-4ihKUduP-gLiBwkvSWhDBxohVy3/view?usp=sharing))
+[Скачать резюме PDF]([https://drive.google.com/file/d/1PnkKLVcos2oh63fPGEJv6sFnvwKnko7p/view?usp=sharing](https://drive.google.com/file/d/1cNAs-4ihKUduP-gLiBwkvSWhDBxohVy3/view?usp=sharing)
 ---
 
 
